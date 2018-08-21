@@ -7,6 +7,40 @@ office_hours: Tuesdays 4pm - 5pm, PG6 140D (or appointment by email)
 homeworks_due: Wednesday of the week following the assignment, 11:59pm
 midterm: TBD
 
+assignments:
+
+  - name: Homeworks
+    items:
+     - name:     Homework 1
+       deadline: Aug 29, 2018
+     - name:     Homework 2
+       deadline: Sep 5, 2018
+     - name:     Homework 3
+       deadline: Sep 12, 2018
+     - name:     Homework 4
+       deadline: Sep 19, 2018
+     - name:     Homework 5
+       deadline: Oct 3, 2018
+     - name:     Homework 6
+       deadline: Oct 10, 2018
+     - name:     Homework 7
+       deadline: Oct 17, 2018
+     - name:     Homework 8
+       deadline: Nov 28, 2018
+
+  - name: Project paper
+    items:
+     - name:     Topics
+       deadline: Sep 13, 2018
+     - name:     References
+       deadline: Sep 20, 2018
+     - name:     Presentation
+       deadline: Oct 23, 2018
+     - name:     Revised Presentation
+       deadline: Oct 30, 2018
+     - name:     Final draft
+       deadline: Nov 20, 2018
+
 # final: Wednesday Dec 6, 2017 5-7pm
 # final_room: GL 139
 
