@@ -162,7 +162,7 @@ Exercise
 
 1. Create the following topology in Mininet: (Note: `s1` and `s2` are switches, `h1`, `h2`, `h3`, and `h4` are hosts. **The bandwidth of each link is also given and must be implemented.** ).  Include output of `dump`, `nodes`, `links` commands in your report.
 
-    {% img 'project-topology.png' %}
+    {% asset project-topology.png %}
 
     You will need to create a simple python file to do this (or generate using Mininet topology editor).
     You will also need to include the `bw=X` setting when adding links in the script, where X is a number such as 20, 15, 10 or 5.
